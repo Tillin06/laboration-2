@@ -7,7 +7,8 @@ Detta är en webbplats om mig, min bakgrund, utbildning och intressen. Projektet
 -
 ## Kontakt
 Vid frågor eller liknande kontakt mig gärna:
-**Tilda ÖStröm Linde**
+
+**Tilda Öström Linde**
 tios2600@student.miun.se
 
 
