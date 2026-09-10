@@ -1,18 +1,19 @@
-# Min Webbplats
-## Beskrivning
+# ✨ Min Webbplats ✨
+## 🔎 Beskrivning
 Detta är en webbplats om mig, min bakgrund, utbildning och intressen. Projektet är en del av min utbildning på Mittuniversitetet och är byggt med HTML.
-## Tekniker
+## ✏️ Tekniker
 - HTML
-## Publicerad version
--
-## Kontakt
+## 💻 Publicerad version
+- **GITHUB** https://tillin06.github.io/laboration-2/
+- **NETLIFY** https://tios-laboration-2.netlify.app/
+## 📧 Kontakt
 Vid frågor eller liknande kontakt mig gärna:
 
 **Tilda Öström Linde**
 tios2600@student.miun.se
 
 
-# GIT
+# 🫧 GIT 🫧
 ## Vad är skillnaden mellan git add och git commit
 Git add lägger till ändringar i staging area och git commit tar alla ändringar från staging area och sparar dessa i ens egen lokala historik.
 ## Varför använder man branches istället för att jobba direkt i main?
